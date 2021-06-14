@@ -20,7 +20,7 @@ void main() {
       url, "post", 
       body: {
         'email': params.email, 
-        'password': params.passwords
+        'password': params.password
       }
     ));
   });
