@@ -1,5 +1,3 @@
-import 'package:completeapp/domain/use_case/use_case.dart';
-
 import '../entity/entity.dart';
 
 abstract class Authentication {
